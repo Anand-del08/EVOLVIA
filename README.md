@@ -1,0 +1,17 @@
+# Evolvia Gamification
+This folder contains the gamification system for Evolvia
+This system is designed to encourage users to :
+- Practice coding regularly
+- Complete coding challenges 
+- Improve their coding skills 
+- Maintain coding streaks 
+- Track their progress
+- Earn achievements
+
+## Main Parts
+1. XP System 
+2. Score System 
+3. Level Progression 
+4. Coding Streaks 
+5. Badges and Achievements 
+6. Activity Rewards
